@@ -16,7 +16,7 @@ It is a simple but effective responsive web design created from a jpg image. HTM
  [Click here!](https://scarrasco85.github.io/portfolio-layout-flexbox/index.html)
 
 ---
- ## Responsive Views 
+ ## Responsive views - Some examples
 #### Desktop view:
 
 ![](img/screenshots/version-escritorio.png)
